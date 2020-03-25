@@ -6,7 +6,7 @@ The dataset provided to you contains car sales listings and descriptions from Cr
 * groups for your data such that all rows in your data can be easily categorized into groups with similar features. Make sure to list out the features for each group. 
 * *Optional: Develop a model that predicts the price listing of a car depending on its features.*
 * *HINT: Make sure you identify and remove outliers in the dataset that may indicate data corruption or skewed results on analysis.* 
-* *HINT: Feel free to choose a subset or combination of all columns for grouping the data and in your prediction model* 
+* *HINT: Feel free to choose a subset or combination of columns for grouping the data and in your prediction model* 
 
 ## The Data
 
