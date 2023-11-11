@@ -9,7 +9,6 @@ The dataset provided to you contains car sales listings and descriptions from Cr
 * *HINT: Feel free to choose a subset or combination of columns for grouping the data and in your prediction model* 
 
 ## The Data
-
 We will share the sample dataset ahead of the exercise.
 
 ### Data fields
