@@ -10,7 +10,7 @@ The dataset provided to you contains car sales listings and descriptions from Cr
 
 ## The Data
 
-You can download the data from [here](https://drive.google.com/drive/folders/1pm6sShAgqg6U_veuIslI4D_kcvg1pNLQ?usp=sharing)
+We will share the sample dataset ahead of the exercise.
 
 ### Data fields
 * id - entry ID
